@@ -136,3 +136,12 @@ time="2022-01-21T23:49:49+08:00" level=info msg="Started listening for new payme
 time="2022-01-21T23:50:44+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
 time="2022-01-21T23:51:39+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
 time="2022-01-21T23:52:34+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T23:53:29+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T23:54:24+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T23:55:19+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T23:56:14+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T23:57:09+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T23:58:04+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T23:58:59+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T23:59:54+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-22T00:00:49+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
