@@ -1,0 +1,21 @@
+time="2022-01-21T21:26:38+08:00" level=info msg="Creating and initializing TransactionSubmitter" 
+time="2022-01-21T21:26:38+08:00" level=info msg="Initializing Authorizing account" 
+time="2022-01-21T21:26:38+08:00" level=info msg="Loading account" accountID=GAIHBCB57M2SDFQYUMANDBHW4YYMD3FJVK2OGHRKKCNF2HBZIRBKRX6E service=Horizon 
+time="2022-01-21T21:26:38+08:00" level=info msg="Account loaded" accountID=GAIHBCB57M2SDFQYUMANDBHW4YYMD3FJVK2OGHRKKCNF2HBZIRBKRX6E service=Horizon 
+time="2022-01-21T21:26:38+08:00" level=info msg="Initializing Base account" 
+time="2022-01-21T21:26:38+08:00" level=info msg="Loading account" accountID=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q service=Horizon 
+time="2022-01-21T21:26:38+08:00" level=info msg="Account loaded" accountID=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q service=Horizon 
+time="2022-01-21T21:26:38+08:00" level=info msg="TransactionSubmitter created" 
+time="2022-01-21T21:26:38+08:00" level=info msg="Creating and starting PaymentListener" 
+time="2022-01-21T21:26:38+08:00" level=info msg="Loading account" accountID=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q service=Horizon 
+time="2022-01-21T21:26:38+08:00" level=info msg="Account loaded" accountID=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q service=Horizon 
+time="2022-01-21T21:26:38+08:00" level=info msg="PaymentListener created" 
+time="2022-01-21T21:26:38+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T21:27:33+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T21:28:28+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T21:28:45+08:00" level=info msg="Submitting transaction" service=TransactionSubmitter tx="AAAAAEk4AqCyUoh8WX3su6su8Ei1gE2OyfDEfLTwQDQGNH2qAAAAZAAAAM4AAAAFAAAAAAAAAANp80ZD1AIQLV+pzsuBbsJIUJrMmm72aMINdiQ9WdZw2gAAAAEAAAAAAAAAAQAAAADttF5n3QoqaUP0SUjNav3rKguP5YYJsK+dvYyUgK/jYAAAAAFVU0QAAAAAABBwiD37NSGWGKMA0YT25jDB7KmqtOMeKlCaXRw5REKoAAAAAAyEWIAAAAAAAAAAAQY0faoAAABAqK4+SO/+1uIGTRv3PcIEUZGR1JKHd2orJ/Z6qj3bh2VeaEFL8WIj2v0w8zozfyqt34Vld2bLX8DJLLBw1SHDBg==" 
+time="2022-01-21T21:28:48+08:00" level=info msg="Success response from horizon" ledger=23903 service=Horizon 
+time="2022-01-21T21:29:23+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T21:30:18+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T21:31:13+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T21:32:08+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 

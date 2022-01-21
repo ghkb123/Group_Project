@@ -1,0 +1,40 @@
+time="2022-01-21T21:01:47+08:00" level=info msg="Creating and initializing TransactionSubmitter" 
+time="2022-01-21T21:01:47+08:00" level=info msg="Initializing Authorizing account" 
+time="2022-01-21T21:01:47+08:00" level=info msg="Loading account" accountID=GAIHBCB57M2SDFQYUMANDBHW4YYMD3FJVK2OGHRKKCNF2HBZIRBKRX6E service=Horizon 
+time="2022-01-21T21:01:47+08:00" level=info msg="Account loaded" accountID=GAIHBCB57M2SDFQYUMANDBHW4YYMD3FJVK2OGHRKKCNF2HBZIRBKRX6E service=Horizon 
+time="2022-01-21T21:01:47+08:00" level=info msg="Initializing Base account" 
+time="2022-01-21T21:01:47+08:00" level=info msg="Loading account" accountID=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD service=Horizon 
+time="2022-01-21T21:01:47+08:00" level=info msg="Account loaded" accountID=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD service=Horizon 
+time="2022-01-21T21:01:47+08:00" level=info msg="TransactionSubmitter created" 
+time="2022-01-21T21:01:47+08:00" level=info msg="Creating and starting PaymentListener" 
+time="2022-01-21T21:01:47+08:00" level=info msg="Loading account" accountID=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD service=Horizon 
+time="2022-01-21T21:01:47+08:00" level=info msg="Account loaded" accountID=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD service=Horizon 
+time="2022-01-21T21:01:47+08:00" level=info msg="PaymentListener created" 
+time="2022-01-21T21:01:47+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:02:42+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:02:54+08:00" level=info msg="Submitting transaction" service=TransactionSubmitter tx="AAAAAO20XmfdCippQ/RJSM1q/esqC4/lhgmwr529jJSAr+NgAAAAZAAAAM4AAAAFAAAAAAAAAAMRF0pJ/V3cKaUmbupKgcU9uYgc3VgQPZ1iNTmYwbfzxwAAAAEAAAAAAAAAAQAAAABJOAKgslKIfFl97LurLvBItYBNjsnwxHy08EA0BjR9qgAAAAFVU0QAAAAAABBwiD37NSGWGKMA0YT25jDB7KmqtOMeKlCaXRw5REKoAAAAAAaOd4AAAAAAAAAAAYCv42AAAABANIMx+9YTzsuKN6+vXRI1+o0myZDGMlHQ2l0KbGtgnhQK8J9RpDZbXJqLS4dg6q9DGhDdPmG0mz8iLP4f1pXZBQ==" 
+time="2022-01-21T21:02:58+08:00" level=info msg="Success response from horizon" ledger=23593 service=Horizon 
+time="2022-01-21T21:03:37+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:04:32+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:05:27+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:06:22+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:07:17+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:08:12+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:09:07+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:10:02+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:10:57+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:11:52+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:12:47+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:13:42+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:14:37+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:15:32+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:16:27+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:17:22+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:18:17+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:19:12+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:20:07+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:21:02+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:21:57+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:22:52+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:23:47+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 
+time="2022-01-21T21:24:42+08:00" level=info msg="Started listening for new payments" accountId=GDW3IXTH3UFCU2KD6REURTLK7XVSUC4P4WDATMFPTW6YZFEAV7RWATAD cursor=now service=PaymentListener 

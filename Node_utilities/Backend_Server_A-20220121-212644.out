@@ -1,0 +1,48 @@
+App now running on port 3600
+request johndoe*banka.com
+ID johndoe johndoe*banka.com
+Start backend payment service A
+backend payment service A queery results Result {
+  command: 'SELECT',
+  rowCount: 1,
+  oid: null,
+  rows: [ { balance: 977 } ],
+  fields: [
+    Field {
+      name: 'balance',
+      tableID: 16400,
+      columnID: 6,
+      dataTypeID: 23,
+      dataTypeSize: 4,
+      dataTypeModifier: -1,
+      format: 'text'
+    }
+  ],
+  _parsers: [ [Function: parseInteger] ],
+  _types: TypeOverrides {
+    _types: {
+      getTypeParser: [Function: getTypeParser],
+      setTypeParser: [Function: setTypeParser],
+      arrayParser: [Object],
+      builtins: [Object]
+    },
+    text: {},
+    binary: {}
+  },
+  RowCtor: null,
+  rowAsArray: false
+}
+===================================================================
+body result of requestObj by backend payment A to bridge server A at port 8006 {
+  "hash": "d778abf642ccb83d46882eae6fc3a94810e2e1e59077e2bcf0e3e9647584f824",
+  "result_xdr": "AAAAAAAAAGQAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAA=",
+  "ledger": 23888
+}
+SUCCESS! {
+  "hash": "d778abf642ccb83d46882eae6fc3a94810e2e1e59077e2bcf0e3e9647584f824",
+  "result_xdr": "AAAAAAAAAGQAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAA=",
+  "ledger": 23888
+}
+balance 965
+Next txid NaN
+request johndoe*banka.com

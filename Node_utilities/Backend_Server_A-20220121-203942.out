@@ -1,0 +1,44 @@
+App now running on port 3600
+request johndoe*banka.com
+ID johndoe johndoe*banka.com
+Start backend payment service A
+backend payment service A queery results Result {
+  command: 'SELECT',
+  rowCount: 1,
+  oid: null,
+  rows: [ { balance: 988 } ],
+  fields: [
+    Field {
+      name: 'balance',
+      tableID: 16400,
+      columnID: 6,
+      dataTypeID: 23,
+      dataTypeSize: 4,
+      dataTypeModifier: -1,
+      format: 'text'
+    }
+  ],
+  _parsers: [ [Function: parseInteger] ],
+  _types: TypeOverrides {
+    _types: {
+      getTypeParser: [Function: getTypeParser],
+      setTypeParser: [Function: setTypeParser],
+      arrayParser: [Object],
+      builtins: [Object]
+    },
+    text: {},
+    binary: {}
+  },
+  RowCtor: null,
+  rowAsArray: false
+}
+===================================================================
+body result of requestObj by backend payment A to bridge server A at port 8006 {
+  "code": "internal_server_error",
+  "message": "Internal Server Error, please try again."
+}
+Backend payment service xxxx
+ERROR! {
+  "code": "internal_server_error",
+  "message": "Internal Server Error, please try again."
+}

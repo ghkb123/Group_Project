@@ -1,0 +1,2 @@
+time="2022-01-21T20:57:43+08:00" level=info msg="starting federation server - v0.2.1" pid=9721 
+time="2022-01-21T20:57:43+08:00" level=info msg="listening on 0.0.0.0:8002" pid=9721 

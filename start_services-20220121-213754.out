@@ -1,0 +1,131 @@
+Starting proceses
+current ps
+(Not all processes could be identified, non-owned process info
+ will not be shown, you would have to be root to see it all.)
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:8000            0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:37799         0.0.0.0:*               LISTEN      16999/node          
+tcp        0      0 127.0.0.1:5433          0.0.0.0:*               LISTEN      -                   
+tcp6       0      0 :::443                  :::*                    LISTEN      -                   
+tcp6       0      0 :::80                   :::*                    LISTEN      -                   
+tcp6       0      0 :::8000                 :::*                    LISTEN      -                   
+
+Check if Stellar docker is running ...
+
+Stellar docker is already running
+
+CONTAINER ID   IMAGE                COMMAND                 CREATED          STATUS          PORTS                                                                            NAMES
+da762bc5852b   stellar/quickstart   "/start --standalone"   36 minutes ago   Up 36 minutes   5432/tcp, 6060/tcp, 11625-11626/tcp, 0.0.0.0:8000->8000/tcp, :::8000->8000/tcp   stellar
+Stellar docker is not running. To start it now
+
+================================================================
+
+Starting postgres at port 5433
+sudo service postgresql restart
+ * Restarting PostgreSQL 12 database server
+   ...done.
+
+================================================================
+
+Password: 
+su: Authentication failure
+psql: error: FATAL:  role "limkb" does not exist
+Starting apache2
+sudo service apache2 restart
+ * Restarting Apache httpd web server apache2
+   ...done.
+
+================================================================
+
+starting federal server
+
+================================================================
+
+
+
+
+================================================================
+
+starting compliance server
+time="2022-01-21T21:38:19+08:00" level=info msg="Applied migrations: 2" 
+
+time="2022-01-21T21:38:19+08:00" level=info msg="Applied migrations: 2" 
+
+
+================================================================
+
+starting bridge server
+time="2022-01-21T21:38:19+08:00" level=info msg="Applied migrations: 3" 
+
+time="2022-01-21T21:38:19+08:00" level=info msg="Applied migrations: 3" 
+
+
+================================================================
+
+starting Callback server
+
+
+================================================================
+
+Starting frontend
+
+================================================================
+
+Final status: 
+
+> cross-border-app@1.0.0 start
+> react-scripts start
+
+(node:18384) [DEP0111] DeprecationWarning: Access to process.binding('http_parser') is deprecated.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Starting the development server...
+
+Compiled with warnings.
+
+./src/App-web.js
+  Line 7:   'toml' is assigned a value but never used        no-unused-vars
+  Line 8:   'concat' is assigned a value but never used      no-unused-vars
+  Line 9:   'fs' is assigned a value but never used          no-unused-vars
+  Line 10:  'requestObj' is assigned a value but never used  no-unused-vars
+  Line 99:  Expected '===' and instead saw '=='              eqeqeq
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+(Not all processes could be identified, non-owned process info
+ will not be shown, you would have to be root to see it all.)
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:3000            0.0.0.0:*               LISTEN      18384/node          
+tcp        0      0 0.0.0.0:8000            0.0.0.0:*               LISTEN      -                   
+tcp        0      0 127.0.0.1:37799         0.0.0.0:*               LISTEN      16999/node          
+tcp        0      0 127.0.0.1:5433          0.0.0.0:*               LISTEN      -                   
+tcp6       0      0 :::3600                 :::*                    LISTEN      18338/node          
+tcp6       0      0 :::3602                 :::*                    LISTEN      18339/node          
+tcp6       0      0 :::443                  :::*                    LISTEN      -                   
+tcp6       0      0 :::5000                 :::*                    LISTEN      18263/node          
+tcp6       0      0 :::5100                 :::*                    LISTEN      18264/node          
+tcp6       0      0 :::80                   :::*                    LISTEN      -                   
+tcp6       0      0 :::8000                 :::*                    LISTEN      -                   
+tcp6       0      0 :::8001                 :::*                    LISTEN      18142/./federation  
+tcp6       0      0 :::8002                 :::*                    LISTEN      18164/./federation  
+tcp6       0      0 :::8003                 :::*                    LISTEN      18189/./compliance  
+tcp6       0      0 :::8004                 :::*                    LISTEN      18189/./compliance  
+tcp6       0      0 :::8006                 :::*                    LISTEN      18227/./bridge      
+tcp6       0      0 :::8007                 :::*                    LISTEN      18247/./bridge      
+tcp6       0      0 :::8008                 :::*                    LISTEN      18207/./compliance  
+tcp6       0      0 :::8009                 :::*                    LISTEN      18207/./compliance  
+Compiling...
+Compiled with warnings.
+
+./src/App-web.js
+  Line 7:   'toml' is assigned a value but never used        no-unused-vars
+  Line 8:   'concat' is assigned a value but never used      no-unused-vars
+  Line 9:   'fs' is assigned a value but never used          no-unused-vars
+  Line 10:  'requestObj' is assigned a value but never used  no-unused-vars
+  Line 99:  Expected '===' and instead saw '=='              eqeqeq
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+

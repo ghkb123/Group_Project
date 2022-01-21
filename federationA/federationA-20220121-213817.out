@@ -1,0 +1,4 @@
+time="2022-01-21T21:38:17+08:00" level=info msg="starting federation server - v0.2.1" pid=18142 
+time="2022-01-21T21:38:17+08:00" level=info msg="listening on 0.0.0.0:8001" pid=18142 
+time="2022-01-21T21:40:40+08:00" level=info msg="starting request" host="banka.com:8001" ip="[::1]:46682" method=GET path="/federation?q=johndoe%2Abanka.com&type=name" pid=18142 subsys=http 
+time="2022-01-21T21:40:40+08:00" level=info msg="finished request" bytes=147 duration=1.016614ms pid=18142 status=200 subsys=http 

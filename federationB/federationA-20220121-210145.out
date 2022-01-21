@@ -1,0 +1,4 @@
+time="2022-01-21T21:01:46+08:00" level=info msg="starting federation server - v0.2.1" pid=11612 
+time="2022-01-21T21:01:46+08:00" level=info msg="listening on 0.0.0.0:8002" pid=11612 
+time="2022-01-21T21:02:54+08:00" level=info msg="starting request" host="bankb.com:8002" ip="[::1]:50258" method=GET path="/federation?q=janesmith%2Abankb.com&type=name" pid=11612 subsys=http 
+time="2022-01-21T21:02:54+08:00" level=info msg="finished request" bytes=151 duration=1.301912ms pid=11612 status=200 subsys=http 

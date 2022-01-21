@@ -1,0 +1,21 @@
+time="2022-01-21T20:57:44+08:00" level=info msg="Creating and initializing TransactionSubmitter" 
+time="2022-01-21T20:57:44+08:00" level=info msg="Initializing Authorizing account" 
+time="2022-01-21T20:57:44+08:00" level=info msg="Loading account" accountID=GAIHBCB57M2SDFQYUMANDBHW4YYMD3FJVK2OGHRKKCNF2HBZIRBKRX6E service=Horizon 
+time="2022-01-21T20:57:44+08:00" level=info msg="Account loaded" accountID=GAIHBCB57M2SDFQYUMANDBHW4YYMD3FJVK2OGHRKKCNF2HBZIRBKRX6E service=Horizon 
+time="2022-01-21T20:57:44+08:00" level=info msg="Initializing Base account" 
+time="2022-01-21T20:57:44+08:00" level=info msg="Loading account" accountID=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q service=Horizon 
+time="2022-01-21T20:57:44+08:00" level=info msg="Account loaded" accountID=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q service=Horizon 
+time="2022-01-21T20:57:44+08:00" level=info msg="TransactionSubmitter created" 
+time="2022-01-21T20:57:44+08:00" level=info msg="Creating and starting PaymentListener" 
+time="2022-01-21T20:57:44+08:00" level=info msg="Loading account" accountID=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q service=Horizon 
+time="2022-01-21T20:57:44+08:00" level=info msg="Account loaded" accountID=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q service=Horizon 
+time="2022-01-21T20:57:44+08:00" level=info msg="PaymentListener created" 
+time="2022-01-21T20:57:44+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T20:58:39+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T20:59:34+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T21:00:29+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T21:00:43+08:00" level=error msg="Error while streaming: Get http://localhost:8000/accounts/GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q/payments?cursor=now: read tcp 127.0.0.1:40410->127.0.0.1:8000: read: connection reset by peer" service=PaymentListener 
+time="2022-01-21T21:00:43+08:00" level=info msg=Sleeping... service=PaymentListener 
+time="2022-01-21T21:00:53+08:00" level=info msg="Started listening for new payments" accountId=GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q cursor=now service=PaymentListener 
+time="2022-01-21T21:00:53+08:00" level=error msg="Error while streaming: Get http://localhost:8000/accounts/GBETQAVAWJJIQ7CZPXWLXKZO6BELLACNR3E7BRD4WTYEANAGGR62VP6Q/payments?cursor=now: dial tcp 127.0.0.1:8000: getsockopt: connection refused" service=PaymentListener 
+time="2022-01-21T21:00:53+08:00" level=info msg=Sleeping... service=PaymentListener 

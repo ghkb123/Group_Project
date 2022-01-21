@@ -1,0 +1,18 @@
+App now running on port 3602
+request johndoe*banka.com
+ID johndoe johndoe*banka.com
+/home/limkb/group_project/Node_utilities/DBServerB-web.js:54
+                name: results.rows[0].name,
+                                      ^
+
+TypeError: Cannot read property 'name' of undefined
+    at Query.<anonymous> (/home/limkb/group_project/Node_utilities/DBServerB-web.js:54:39)
+    at Query.handleReadyForQuery (/home/limkb/node_modules/pg/lib/query.js:138:12)
+    at Client._handleReadyForQuery (/home/limkb/node_modules/pg/lib/client.js:290:19)
+    at Connection.emit (node:events:394:28)
+    at /home/limkb/node_modules/pg/lib/connection.js:114:12
+    at Parser.parse (/home/limkb/node_modules/pg-protocol/dist/parser.js:40:17)
+    at Socket.<anonymous> (/home/limkb/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:394:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)

@@ -1,0 +1,11 @@
+App now running on port 5100
+sanctions request {"address":"cityA","date_of_birth":"1011988","domain":"banka.com","name":"John Doe"}
+santions request sender {
+  address: 'cityA',
+  date_of_birth: '1011988',
+  domain: 'banka.com',
+  name: 'John Doe'
+}
+santions request -- the end
+request fetch info janesmith*bankb.com
+domain bankb.com

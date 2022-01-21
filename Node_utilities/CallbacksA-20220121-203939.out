@@ -1,0 +1,17 @@
+App now running on port 5000
+sanctions request {"address":"cityB","date_of_birth":"31031991","domain":"bankb.com","name":"Jane Smith"}
+santions request sender {
+  address: 'cityB',
+  date_of_birth: '31031991',
+  domain: 'bankb.com',
+  name: 'Jane Smith'
+}
+santions request -- the end
+sanctions request {"address":"cityB","date_of_birth":"31031991","domain":"bankb.com","name":"Jane Smith"}
+santions request sender {
+  address: 'cityB',
+  date_of_birth: '31031991',
+  domain: 'bankb.com',
+  name: 'Jane Smith'
+}
+santions request -- the end

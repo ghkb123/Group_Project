@@ -1,0 +1,102 @@
+.
+├── Bank_Portal
+│   ├── public
+│   └── src
+│       ├── Assets
+│       └── Components
+├── Node_utilities
+├── bridgeA
+├── bridgeB
+├── complianceA
+├── complianceB
+├── federationA
+├── federationB
+└── software_n_document
+    ├── Blockchain-Development-for-Finance-Projects
+    │   ├── Chapter_2
+    │   │   └── Chapter 2
+    │   │       ├── contracts
+    │   │       └── tokenwallet
+    │   │           ├── public
+    │   │           │   └── icons
+    │   │           └── src
+    │   │               ├── Components
+    │   │               ├── Tokens
+    │   │               └── contracts
+    │   ├── Chapter_3
+    │   │   ├── MWallet
+    │   │   │   ├── public
+    │   │   │   └── src
+    │   │   │       ├── Components
+    │   │   │       └── Items
+    │   │   ├── gateway
+    │   │   │   ├── public
+    │   │   │   │   ├── images
+    │   │   │   │   └── logos
+    │   │   │   └── src
+    │   │   │       ├── Components
+    │   │   │       └── Items
+    │   │   └── hdwallet
+    │   ├── Chapter_4
+    │   │   ├── CorpRemApp
+    │   │   │   ├── public
+    │   │   │   │   └── uploads
+    │   │   │   └── src
+    │   │   │       └── Components
+    │   │   ├── Node utilties
+    │   │   ├── bankchain
+    │   │   │   ├── base
+    │   │   │   ├── channel-artifacts
+    │   │   │   ├── first-network
+    │   │   │   └── scripts
+    │   │   └── corprem
+    │   │       └── javascript
+    │   │           └── lib
+    │   ├── Chapter_5
+    │   │   └── Cross_Border
+    │   │       ├── Bank_Portal
+    │   │       │   ├── public
+    │   │       │   └── src
+    │   │       │       ├── Assets
+    │   │       │       └── Components
+    │   │       ├── Node_utilities
+    │   │       ├── bridgeA
+    │   │       ├── bridgeB
+    │   │       ├── certificates
+    │   │       ├── complianceA
+    │   │       ├── complianceB
+    │   │       ├── federationA
+    │   │       └── federationB
+    │   ├── Chapter_6
+    │   │   ├── LCApp
+    │   │   │   ├── public
+    │   │   │   └── src
+    │   │   │       ├── Components
+    │   │   │       └── Contracts
+    │   │   └── contracts
+    │   ├── Chapter_7
+    │   │   ├── Backend services
+    │   │   ├── Chaincode
+    │   │   │   └── docsapp
+    │   │   │       └── lib
+    │   │   ├── Docs App
+    │   │   │   ├── public
+    │   │   │   └── src
+    │   │   │       └── Components
+    │   │   └── Identity utilties
+    │   ├── Chapter_8
+    │   │   ├── Exchange
+    │   │   │   ├── public
+    │   │   │   └── src
+    │   │   │       ├── Components
+    │   │   │       └── Contracts
+    │   │   └── contracts
+    │   └── Chapter_9
+    │       ├── Node
+    │       └── React
+    │           ├── public
+    │           └── src
+    │               └── Components
+    └── mkcert
+
+99 directories

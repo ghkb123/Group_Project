@@ -1,0 +1,19 @@
+App now running on port 5000
+fetch_info request { address: 'johndoe*banka.com' }
+fetch_info request johndoe*banka.com
+sanctions request {"address":"cityB","date_of_birth":"31031991","domain":"bankb.com","name":"Jane Smith"}
+santions request sender {
+  address: 'cityB',
+  date_of_birth: '31031991',
+  domain: 'bankb.com',
+  name: 'Jane Smith'
+}
+santions request -- the end
+sanctions request {"address":"cityB","date_of_birth":"31031991","domain":"bankb.com","name":"Jane Smith"}
+santions request sender {
+  address: 'cityB',
+  date_of_birth: '31031991',
+  domain: 'bankb.com',
+  name: 'Jane Smith'
+}
+santions request -- the end
